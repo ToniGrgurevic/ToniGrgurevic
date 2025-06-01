@@ -10,8 +10,6 @@ Data Recovery Using Machine Learning: Researched and implemented various machine
 Mental Health Disorder Search Engine: Designed and implemented a search engine system for mental health disorder information, combining lexical and semantic search techniques.
 
 
-Open-source initiatives that focus on solving real-world problems using technology.
-
 💬 Ask Me About
 Python, Java, C/C++, and JavaScript programming.
 
