@@ -9,15 +9,6 @@ Data Recovery Using Machine Learning: Researched and implemented various machine
 
 Mental Health Disorder Search Engine: Designed and implemented a search engine system for mental health disorder information, combining lexical and semantic search techniques.
 
-🌱 Currently Learning
-Advanced machine learning techniques, including supervised and unsupervised learning.
-
-Data Mining and Big Data Analysis.
-
-Enhancing my skills in cybersecurity and data protection.
-
-👯 Looking to Collaborate On
-Projects related to data science, AI, and cybersecurity.
 
 Open-source initiatives that focus on solving real-world problems using technology.
 
